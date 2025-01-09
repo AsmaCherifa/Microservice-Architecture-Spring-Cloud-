@@ -1,0 +1,21 @@
+# Maven
+target/
+*.log
+
+# IDEs
+.idea/
+*.iml
+*.project
+*.classpath
+
+# IntelliJ
+*.iws
+*.ipr
+
+# Spring Boot specific
+*.jar
+*.war
+
+# OS specific
+.DS_Store
+Thumbs.db
